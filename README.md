@@ -81,17 +81,6 @@ This repository only provides **weights** for anonymization models — no copyri
 These weights are provided for **research and privacy-preserving applications**.
 Check Project Aria's licensing terms if using their datasets or code.
 
----
-
-## 🤝 Contributing
-
-Pull requests for:
-
-* Additional anonymization models
-* Performance improvements
-* Better documentation
-
----
 
 ## 📬 Contact
 
